@@ -1,0 +1,13 @@
+Package: com.leons.repository
+Name: Leons Repo
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Leons Repo Just A Repo
+Maintainer: Leon
+Author: Leon
+Section: Tweaks
+Filename: debs/jp.dcsyhi.zetsu_1.6.deb
+Size: 10086968
+MD5sum: a538778ecb64da9908bd50b63e6cf92b
+SHA1: 2d17980726a31a175fec0d0e480ae81727f4d339
+SHA256: 9388a0871e8de832fe222b39db7a373be298db30bbbc915bce6803d20e8cd7df
